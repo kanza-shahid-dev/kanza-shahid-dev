@@ -65,6 +65,15 @@ Mobile app that connects people with features like
     <img  src="https://user-images.githubusercontent.com/90906602/165294246-dda31661-9fab-4cd0-9dcc-af820fd9598d.png">
 </p>
 
+### Superstore App
+
+
+### Cheers App
+
+
+### Fintech App
+
+
 ### Project 1
 
 Lorem Ipsum about Project
