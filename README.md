@@ -61,7 +61,7 @@ Mobile app that connects people with features like
 - Groups chat
 - voice calls.
 
-<p align="center" width="100%" height="50%">
+<p align="center" width="100%" height="100">
     <img  src="https://user-images.githubusercontent.com/90906602/165294246-dda31661-9fab-4cd0-9dcc-af820fd9598d.png">
 </p>
 
