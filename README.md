@@ -21,6 +21,8 @@ currently I am a Web/Mobile App Developer
 |React Native|Trello|
 |Redux|SQL Server Data Tools|
 |Java|Docker|
+|ASP .NET|Slack|
+|||
 
 </div>
 
