@@ -49,8 +49,10 @@ currently I am a Web/Mobile App Developer
 ### GYM APP
 
 Workout app that can help you get fit, User can register gym course and tutorials, monitoring progress along the way.
-![136984479-27ca7674-c1af-4cc3-b7df-5adb284d66c1](https://user-images.githubusercontent.com/90906602/165292063-32029040-5025-4b73-984e-68ee0ad26b22.png)
 
+<p align="center" width="100%">
+    <img width="33%" src="https://user-images.githubusercontent.com/90906602/165292063-32029040-5025-4b73-984e-68ee0ad26b22.png">
+</p>
 
 ### Project 1
 
