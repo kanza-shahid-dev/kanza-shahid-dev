@@ -52,7 +52,7 @@ currently I am a Web/Mobile App Developer
 
 Workout app that can help you get fit, User can register gym course and tutorials, monitoring progress along the way.
 
-[![View Repository](https://github.com/kanza-shahid-dev/gym_app)](https://link-on-click)
+[![View Repository]()](https://github.com/kanza-shahid-dev/gym_app)
 
 ### Hello App
 
@@ -61,7 +61,9 @@ Mobile app that connects people with features like
 - Groups chat
 - voice calls.
 
-[![View Repository](https://github.com/kanza-shahid-dev/Hello_app)](https://link-on-click)
+[![View Repository]()](https://github.com/kanza-shahid-dev/Hello_app)
+
+<!--
 
 ### Superstore App
 
@@ -75,3 +77,5 @@ Mobile app that connects people with features like
 ### Project 1
 
 Lorem Ipsum about Project
+
+-->
