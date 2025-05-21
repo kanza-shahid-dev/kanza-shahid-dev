@@ -42,7 +42,7 @@ currently I am a Web/Mobile App Developer
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/kanza-shahid-dev?tab=repositories)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kanza-portfolio.vercel.app/)
        
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanza-shahid-/)
 
@@ -52,7 +52,7 @@ currently I am a Web/Mobile App Developer
 
 Workout app that can help you get fit, User can register gym course and tutorials, monitoring progress along the way.
 
-[![View Repository]()](https://github.com/kanza-shahid-dev/gym_app)
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/kanza-shahid-dev/gym_app)
 
 ### Hello App
 
@@ -61,7 +61,7 @@ Mobile app that connects people with features like
 - Groups chat
 - voice calls.
 
-[![View Repository]()](https://github.com/kanza-shahid-dev/Hello_app)
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/kanza-shahid-dev/Hello_app)
 
 <!--
 
