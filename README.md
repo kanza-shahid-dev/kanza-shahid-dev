@@ -48,34 +48,6 @@ currently I am a Web/Mobile App Developer
 
 ## Projects
 
-### GYM APP
-
-Workout app that can help you get fit, User can register gym course and tutorials, monitoring progress along the way.
-
-[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/kanza-shahid-dev/gym_app)
-
-### Hello App
-
-Mobile app that connects people with features like 
-- one-to-one messages
-- Groups chat
-- voice calls.
-
-[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/kanza-shahid-dev/Hello_app)
-
-<!--
-
-### Superstore App
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/kanza-shahid-dev?tab=repositories)
 
 
-### Cheers App
-
-
-### Fintech App
-
-
-### Project 1
-
-Lorem Ipsum about Project
-
--->
