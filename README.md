@@ -10,19 +10,21 @@ currently I am a Web/Mobile App Developer
 
 <div align="center">
 
-|Tech|Tools|
-|:--:|:--:|
-|HTML|VS Code|
-|Javascript|Github|
-|CSS|Visual Studio|
-|C++|Android Studio|
-|Wordpress|POSTMAN|
-|ReactJS|DevOps|
-|React Native|Trello|
-|Redux|SQL Server Data Tools|
-|Java|Docker|
-|ASP .NET|Slack|
-|||
+
+| Tech           | Tools                               |
+|:--------------:|:------------------------------------:|
+| Next.js        | Vercel, Postman                     |
+| Angular        | Angular CLI, StackBlitz             |
+| ReactJS        | Vite, React DevTools, VS Code       |
+| React Native   | Expo, Android Studio, Xcode         |
+| WordPress      | Elementor                           |
+| HTML           | VS Code, Chrome DevTools            |
+| JavaScript     | ESLint, Prettier                    |
+| TypeScript     | GitHub                              |
+| CSS            | Figma                               |
+| Redux          | Redux DevTools, Thunk, Toolkit      |
+| ASP.NET        | Visual Studio                       |
+
 
 </div>
 
