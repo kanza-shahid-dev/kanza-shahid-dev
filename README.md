@@ -29,19 +29,6 @@ currently I am a Web/Mobile App Developer
 </div>
 
 
-## Other Common Github Profile Sections
-
-👩‍💻 I'm currently working on Web Apps
-
-🧠 I'm currently learning React Native, React JS
-
-👯‍♀️ I'm looking to collaborate on Open Source projects
-
-💬 Ask me about Web Apps / Mobile Apps / Frontend / Backend
-
-📫 How to reach me: Reach me on Linkedin/E-Mail
-
-
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kanza-portfolio.vercel.app/)
